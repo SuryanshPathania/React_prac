@@ -1,9 +1,8 @@
-import React from 'react'
-
 function App() {
   return (
-    <div className='w-full h-screen bg-zinc-900'>App</div>
-  )
+    <div>
+      <h1>Hello, React!</h1>
+    </div>
+  );
 }
-
-export default App
+export default App;
